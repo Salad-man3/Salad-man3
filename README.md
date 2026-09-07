@@ -16,7 +16,7 @@
 
 ### Experience
 
-**Software Engineer @ Ghaya Go** · Feb–Aug 2026 — pre-launch bilingual learning platform ([ghayaplatform.com](https://ghayaplatform.com))
+**Software Engineer @ Ghaya Go** · Feb–Aug 2026 — pre-launch education & curriculum management platform ([ghayaplatform.com](https://ghayaplatform.com))
 
 Primary backend on a private Turborepo monorepo. Shipped a NestJS API from scratch: 54+ HTTP routes, Clerk JWT + CMS service auth, PostgreSQL + Redis, Stripe webhook idempotency, shared Zod contracts, and ~200 automated tests. Case study on my [portfolio](https://salad-man3.github.io/).
 
@@ -28,5 +28,5 @@ Primary backend on a private Turborepo monorepo. Shipped a NestJS API from scrat
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,laravel,nodejs,postgres,redis,docker,prisma,githubactions,git&perline=5" alt="TypeScript, NestJS, Laravel, Node.js, PostgreSQL, Redis, Docker, Prisma, GitHub Actions, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,laravel,nodejs,postgres,redis,docker,prisma&perline=4" alt="TypeScript, NestJS, Laravel, Node.js, PostgreSQL, Redis, Docker, Prisma" />
 </p>
