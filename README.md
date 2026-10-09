@@ -21,7 +21,7 @@ Primary backend contributor on a private Turborepo monorepo. Built a NestJS API 
 
 ### Other work
 
-- **[Ribat](https://github.com/Salad-man3/ribat)** — multi-tenant education platform for mosque schools · NestJS 11, Prisma, PostgreSQL, Redis, React PWA (Arabic/English). Organization scoping enforced in one Prisma extension and covered by cross-tenant e2e tests; Argon2id passwords, revocable cookie sessions, CSRF and rate limits; role-based permissions, an append-only audit log, guardians and households, CSV import; Pino logs with request IDs; CI and a production Docker image. Courses and scheduling in progress.
+- **[Ribat](https://github.com/Salad-man3/ribat)** — multi-tenant education platform for mosque schools · NestJS 11, Prisma, PostgreSQL, Redis, React PWA (Arabic/English). Organization scoping enforced in one Prisma extension and covered by cross-tenant e2e tests; Argon2id passwords, revocable cookie sessions, CSRF and rate limits; role-based permissions, an append-only audit log, guardians and households, CSV import; Pino logs with request IDs; CI and a production Docker image. Courses and scheduling in progress. Architecture and design decisions on my [portfolio](https://salad-man3.github.io/#ribat).
 - **[T-_Project](https://github.com/Salad-man3/T-_Project)** — public Laravel REST API · Sanctum auth, CRUD, soft deletes, [Postman docs](https://documenter.getpostman.com/view/36834914/2sAXxLBZom)
 
 ### Stack
